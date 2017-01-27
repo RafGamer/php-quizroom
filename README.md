@@ -5,4 +5,6 @@ change the master password in the settings file
 
 feel free to make a pull request
 
-note: use at your own risk!
+have fun
+
+sheeeeeeeeeeeeesh
